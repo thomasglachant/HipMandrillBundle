@@ -1,0 +1,21 @@
+{
+    "name": "hipaway-travel/mandrill-bundle",
+    "type": "symfony-bundle",
+    "description": "Symfony Mandrill Bundle",
+    "keywords": ["Mandrill", "transaction mail", "transactional", "messages", "email"],
+    "homepage": "https://github.com/slot/SlotMandrillBundle",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Sven Loth",
+            "email": "sven.loth@me.com",
+            "homepage": "http://github.com/slot"
+        },
+        {
+            "name": "Github Community",
+            "homepage": "https://github.com/slot/SlotMandrillBundle/contributors"
+        }
+    ],
+    "require": {
+    }
+}
