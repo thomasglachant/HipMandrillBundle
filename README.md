@@ -1,2 +1,2 @@
 # HipMandrillBundle
-DEPRECTAED: goto github.com/slot/HipMandrillBundle
+DEPRECTAED: goto github.com/slot/MandrillBundle
