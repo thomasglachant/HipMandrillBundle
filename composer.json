@@ -24,6 +24,5 @@
     "autoload": {
         "psr-4": { "Hip\\MandrillBundle": "" }
     },
-    "target-dir": "Hip/MandrillBundle",
     "minimum-stability": "alpha"
 }
