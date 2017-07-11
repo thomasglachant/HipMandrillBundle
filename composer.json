@@ -22,7 +22,7 @@
         "mandrill/mandrill": "1.*"
     },
     "autoload": {
-        "psr-4": { "Hip\\MandrillBundle": "" }
+        "psr-4": { "Hip\\MandrillBundle\\": "" }
     },
     "minimum-stability": "alpha"
 }
